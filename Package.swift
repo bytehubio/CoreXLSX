@@ -7,7 +7,7 @@ import PackageDescription
 let package = Package(
   name: "CoreXLSX",
   platforms: [
-    .macOS(.v10_11),
+    .macOS(.v13),
     .iOS(.v9),
     .tvOS(.v9),
     .watchOS(.v2),
